@@ -1,0 +1,12 @@
+server:
+  port: 5000
+
+
+logging:
+  level:
+    root: INFO
+    org.springframework: INFO
+    org.hibernate: INFO
+    your.package.name: DEBUG
+    # Adjust logging levels as per your requirements
+
